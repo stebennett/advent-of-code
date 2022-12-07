@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/stebennett/advent-of-code/advent-of-code-2022/pkg/caloriecounter"
+	"github.com/stebennett/advent-of-code/pkg/caloriecounter"
 )
 
 func main() {
